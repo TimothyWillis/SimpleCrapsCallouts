@@ -1,8 +1,8 @@
 import random
 
 Calls = [["snake eyes", "ace-deuce", "Little Joe", "Four Hoes and a pimp", "No fun", "Seven out"],
-     ["ace-deuce", "Double deuce", "FIVE", "the lumber number", "Seven out", "EIGHT"],
-     ["Little Joe", "FIVE", "SIX", "Seven out", "EIGHT", "Center field"],
+     ["ace-deuce", "Double deuce", "Michael Jordan, Magic Johnson", "the lumber number", "Seven out", "EIGHT"],
+     ["Little Joe", "Michael Jordan, Magic Johnson", "SIX", "Seven out", "EIGHT", "Center field"],
      ["Four Hoes and a pimp", "the lumber number", "Seven out", "A square pair", "Jesse James", "sixty-four, out the door"],
      ["No fun", "Seven out", "EIGHT", "Jesse James", "Puppy paws", "Yo leven"],
      ["Seven out", "EIGHT", "Center field", "sixty-four, out the door", "Yo leven", "all the spots we got"]]
